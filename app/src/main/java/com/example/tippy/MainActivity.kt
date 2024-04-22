@@ -57,9 +57,9 @@ class MainActivity : ComponentActivity() {
                 updateTipDescription(p1) // Update tip description based on percent
             }
 
-            override fun onStartTrackingTouch(p0: SeekBar?) {} // Not used
+            override fun onStartTrackingTouch(p0: SeekBar?) {}
 
-            override fun onStopTrackingTouch(p0: SeekBar?) {} // Not used
+            override fun onStopTrackingTouch(p0: SeekBar?) {}
 
         })
 
